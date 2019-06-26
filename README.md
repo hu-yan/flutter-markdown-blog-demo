@@ -1,4 +1,4 @@
-# flutter_app
+# flutter-markdown-blog-demo
 
 A new Flutter application.
 
