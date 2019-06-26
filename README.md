@@ -1,6 +1,9 @@
 # flutter-markdown-blog-demo
+A markdown blog app based on Flutter. 
+This project is a practice (more like a test) using Flutter to build a simple app.
+![](https://i.loli.net/2019/06/27/5d13a999c94bd54001.png)
+![](https://i.loli.net/2019/06/27/5d13b1c9446e627962.png)
 
-A new Flutter application.
 
 ## Getting Started
 
